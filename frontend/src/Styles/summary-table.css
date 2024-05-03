@@ -1,0 +1,24 @@
+table {
+  width: 100%;
+  margin-top: 10px;
+  border: 5px solid #333333;
+}
+
+th {
+  height: 30px;
+  padding: 5px;
+  background-color: blue;
+  color: white;
+  font-size: 16px;
+  font-weight: 900;
+}
+
+tr {
+  height: 30px;
+  background-color: #ffdddd;
+  color: #3b3b3b;
+  border: 3px solid #000000;
+  font-size: 16px;
+  font-weight: 600;
+  letter-spacing: 0.5px;
+}

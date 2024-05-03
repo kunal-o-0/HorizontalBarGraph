@@ -1,0 +1,11 @@
+{
+  "server": {
+    "baseURL": "http://127.0.0.1:9000"
+  },
+  "screen": {
+    "small": "576px",
+    "medium": "768px",
+    "large": "992px",
+    "extraLarge": "1200px"
+  }
+}
