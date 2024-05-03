@@ -55,4 +55,4 @@ And the list goes on as per our needs :smiley:
 
 ## Wrapping-up :scroll:
 
-**As you have approached here, I want to thank you for reaching out here. Have a great and prosperous life ahead!! :heart: :smiley:**
+**As you have approached here, I want to thank you for reaching out here. Have a great and prosperous life ahead!! :orange_heart: :smiley:**
