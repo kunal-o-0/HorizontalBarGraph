@@ -151,7 +151,7 @@ function BarGraph({ startDateTime, frequency }) {
             if graph data array is empty then display message that data is unavailable
             else map data from "graphData"
         */}
-        {graphData.length == 0 ? (
+        {graphData.length === 0 ? (
           <div style={{ fontWeight: "bold", color: "#b82121" }}>
             No data to show
           </div>
@@ -163,9 +163,9 @@ function BarGraph({ startDateTime, frequency }) {
                   width: `${item.value}%`,
                   height: "20px",
                   backgroundColor:
-                    item.type == -1
+                    item.type === -1
                       ? "red"
-                      : item.type == 0
+                      : item.type === 0
                       ? "yellow"
                       : "green",
                 }}

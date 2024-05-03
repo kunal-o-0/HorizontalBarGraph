@@ -72,6 +72,10 @@ function NavBar({ frequency, setFrequency }) {
         );
         break;
       }
+      default:
+        setFrequency(
+          Date.parse("2024-01-01T01:00:00") - Date.parse("2024-01-01T00:00:00")
+        );
     }
   };
 
@@ -89,7 +93,11 @@ function NavBar({ frequency, setFrequency }) {
           Following div is for displaying menu icon image (i.e it's image container)
       */}
       <div style={{ width: "20px", height: "20px", margin: "5px" }}>
-        <img src={MenuIcon} style={{ width: "100%", height: "100%" }} />
+        <img
+          src={MenuIcon}
+          style={{ width: "100%", height: "100%" }}
+          alt="Menu icon"
+        />
       </div>
       <div
         style={{
