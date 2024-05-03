@@ -22,7 +22,7 @@ So, I used graph to show **sample machine data** in horizontal bar graph present
 }
 ```
 
-We have to select **start time** for graph and also set **time frequency** **(amount of time for which we want to look for which is in "hrs")**, after doing this we can see rendered data.
+We have to select **start time** for graph and also set **time frequency** **(amount of time for which we want to look for which is in "hrs")**, after doing this we can see rendered data.\
 I also used table to show for how many times the machine was in `0` state and `1` state and the `total` of it. This also helps to understand the data for selected time slot.
 
 ### Developed using
@@ -36,23 +36,23 @@ I also used table to show for how many times the machine was in `0` state and `1
 
 Below, I am attaching screentshots of webpage which is highly responsive
 
-- Desktop
-  ![Desktop: Server is not running](</Screenshots/Desktop/Desktop%20(1).png>)
-  ![Desktop: Start time is 2024-01-21 03:00PM and frequency is 1hrs](</Screenshots/Desktop/Desktop%20(2).png>)
-  ![Desktop: Start time is 2024-01-20 08:00PM and frequency is 24hrs](</Screenshots/Desktop/Desktop%20(3).png>)
-- Mobile
-  ![Mobile: Server is not running](</Screenshots/Mobile/Mobile%20(1).png>)
-  ![Mobile: Start time is 2024-01-21 03:00PM and frequency is 8hrs](</Screenshots/Mobile/Mobile%20(2).png>)
-  ![Mobile: Start time is 2024-01-21 11:00AM and frequency is 8hrs](</Screenshots/Mobile/Mobile%20(3).png>)
+- Desktop\
+  ![Desktop: Server is not running](</Screenshots/Desktop/Desktop%20(1).png>)\
+  ![Desktop: Start time is 2024-01-21 03:00PM and frequency is 1hrs](</Screenshots/Desktop/Desktop%20(2).png>)\
+  ![Desktop: Start time is 2024-01-20 08:00PM and frequency is 24hrs](</Screenshots/Desktop/Desktop%20(3).png>)\
+- Mobile\
+  ![Mobile: Server is not running](</Screenshots/Mobile/Mobile%20(1).png>)\
+  ![Mobile: Start time is 2024-01-21 03:00PM and frequency is 8hrs](</Screenshots/Mobile/Mobile%20(2).png>)\
+  ![Mobile: Start time is 2024-01-21 11:00AM and frequency is 8hrs](</Screenshots/Mobile/Mobile%20(3).png>)\
 
 ## Future scopes
 
-- :white_check_mark: We can add database to store and fetch data
-- :white_check_mark: Make some optimization on server side to process data in less time .
-- :white_check_mark: Improve UI/UX to more engage users
-- :white_check_mark: Metadata for graph can be added (like x and y axes values)
-  And the list goes on as per our needs :smiley:
+:white_check_mark: We can add database to store and fetch data\
+:white_check_mark: Make some optimization on server side to process data in less time .\
+:white_check_mark: Improve UI/UX to more engage users\
+:white_check_mark: Metadata for graph can be added (like x and y axes values)\
+And the list goes on as per our needs :smiley:
 
 ## Wrapping-up
 
-**As you have approached here, I want to thank you for reaching out here. Have a great and prosperous life ahead!! :heart: :smiley:**
+**As you have approached here, I want to thank you for reaching out here. Have a great and prosperous life ahead!!:heart::smiley:**
